@@ -18,7 +18,9 @@
 ### Global
 
 ```bash
-npm install -g promptlint
+bun install
+bun run build
+bun link
 ```
 
 ### Local dev (bun)
